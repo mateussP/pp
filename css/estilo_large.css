@@ -1,0 +1,13 @@
+@media screen and (min-width: 992px) and (max-width: 1200px){
+	#menu .navbar-inverse .navbar-brand, .navbar-inverse .navbar-toggler{
+		font-size: 12pt;
+	}
+
+	.menuItens .nav-item .nav-link{
+		padding-left: 0;
+	}
+
+	.rodape .row .col-md-12 .pe{
+		margin-top: 5%;
+	}
+}

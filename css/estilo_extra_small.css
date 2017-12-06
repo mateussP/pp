@@ -1,0 +1,92 @@
+
+
+
+@media screen and (min-height: 320px) and (max-width: 543px){
+	
+	#menu{
+		height: 55px;
+	}
+	.col-xs-12 .ti{
+		margin-top: 60%;
+		font-size: 25pt;
+	}
+
+	.banner .row .col-xs-12{
+		background-image: url(../imgs/banner41.jpg);
+		height: 794px;
+	}
+
+	.col-xs-12 .subti{
+		font-size: 17pt;
+	}
+
+	.row .col-xs-12 .seta{
+		margin-top: 50%;
+		margin-left: 35%;
+	}
+
+	.destaques .row .col-xs-12{
+		margin-top: 20%;
+	}
+
+	
+
+	.rodape .row .col-xs-12 .pe{
+		margin-top: 13%;
+	}
+
+	/*=========Produtos===========*/
+
+	.produtos .row .col-xs-12 .logomarca{
+		margin-left: 3%;
+		width: 94%;
+		margin-right: 3%;
+	}
+
+	
+
+	.produtos .row .col-xs-12 .t1{
+		text-align: center;
+		color: white;
+	}
+
+	.row .col-xs-12 .t2{
+		color: black;
+		text-align: center;
+	}
+	
+	.produtos {
+		min-height: 150px;
+	}
+
+	.produtos .row .col-xs-12{
+		margin-top: 4%;
+	}
+
+	.rodape .row .col-12 .pe{
+		margin-top: 13%;
+	}
+
+	/*=========Login==========*/
+
+	.login{
+		min-height: 925px;
+	}
+
+	.login .row {
+		margin-top: 3%;
+	}
+
+	.login .row .lado{
+		height: 0px;
+	}
+
+	.login .row .cent{
+		height: 400px;
+		border: 0;
+	}
+
+	.login .row .cent .loginFor .enviar{
+		margin-left: 20%;
+	}
+}

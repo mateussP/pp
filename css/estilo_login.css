@@ -1,0 +1,120 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+#menu{
+	height: 59px;
+}
+
+.menu .navbar{
+	background-color: #545454;
+}
+.navbar-brand{
+	color: white;
+	border: 1px transparent solid;
+}
+
+.navbar-brand:hover{
+	border-bottom: 1px white solid;
+	color: white;
+}
+
+.menuItens .nav-item .nav-link{
+	color: white;
+}
+
+.menuItens .nav-item{
+	border-bottom: 1px transparent solid;
+	margin-right: 3%;
+}
+
+.menuItens .nav-item:hover{
+	border-bottom: 1px white solid;
+}
+
+.login{
+	height: 625px;
+}
+
+.login .row {
+	margin-top: 3%;
+}
+
+.loginItens .nav-item .nav-link{
+	color: white;
+}
+
+.loginItens .nav-item{
+	border-bottom: 1px transparent solid;
+	
+}
+
+.loginItens .nav-item:hover{
+	border-bottom: 1px white solid;
+}
+
+.loginimg{
+	height: 40px;
+	width: 40px;
+}
+
+
+.buscar .btn{
+	color: white;
+	border-color: white;
+}
+
+.buscar .btn:hover{
+	color: white;
+	border-color: black;
+	background-color: transparent;
+}
+
+.collapse .loginItens{
+	margin-right: 3%;
+}
+
+
+.login .row .topo{
+	height: 170px;
+}
+
+.login .row .lado{
+	height: 500px;
+}
+
+.login .row .cent{
+	height: 500px;
+	border-right: 1px #333333 solid;
+	border-left: 1px #333333 solid;
+
+}
+
+.login .row .cent .title{
+	text-align: center;
+}
+
+.login .row .cent .loginFor{
+	margin-top: 5%;
+}
+
+.login .row .cent .loginFor .enviar{
+	margin-left: 27%;
+}
+
+.login .row .center .teste{
+	background-color: #333333;
+}
+
+.rodape{
+	background-color: #545454;
+	height: 110px;
+}
+
+.rodape .row .pe{
+	color: #999999;
+	text-align: center;
+	margin-top: 3%;
+	font-size: 14pt;
+}

@@ -1,0 +1,40 @@
+@media screen and (min-width: 768px) and (max-width: 991px){
+	#menu{
+		height: 55px;
+	}
+	.row .col-md-12 .ti{
+		margin-top: 30%;
+		font-size: 45pt;
+	}
+
+	.row .col-md-12 .seta{
+		margin-left: 43%;
+	}
+
+	.rodape .row .col-md-12 .pe{
+		margin-top: 6%;
+	}
+
+	/*=========Login==========*/
+
+	.login{
+		min-height: 650px;
+	}
+
+	.login .row {
+		margin-top: 3%;
+	}
+
+	.login .row .lado{
+		height: 0px;
+	}
+
+	.login .row .cent{
+		height: 100px;
+		border: 0;
+	}
+
+	.login .row .cent .loginFor .enviar{
+		margin-left: 20%;
+	}
+}

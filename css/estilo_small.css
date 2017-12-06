@@ -1,0 +1,27 @@
+@media screen and (min-width: 544px) and (max-width: 767px){
+	.col-sm-12 .ti{
+		margin-top: 30%;
+		font-size: 45pt;
+	}
+
+	.col-sm-12 .subti{
+		font-size: 25pt;
+	}
+	
+	.col-sm-12 .seta{
+		margin-left: 40%;
+	}
+
+	.destaques .col-xs-12 .rounded-circle{
+		margin-left: 32%;
+	}
+
+	.destaques .col-xs-12 .mais{
+		margin-left: 37%;
+	}
+
+	.rodape .row .col-sm-12 .pe{
+		margin-top: 6%;
+	}
+}
+

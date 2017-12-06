@@ -1,0 +1,151 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.menu .navbar{
+	background-color: #545454;
+}
+
+.navbar-brand{
+	color: white;
+	border: 1px transparent solid;
+}
+
+.navbar-brand:hover{
+	border-bottom: 1px white solid;
+	color: white;
+}
+
+.menuItens .nav-item .nav-link{
+	color: white;
+}
+
+.menuItens .nav-item{
+	border-bottom: 1px transparent solid;
+	margin-right: 3%;
+}
+
+.menuItens .nav-item:hover{
+	border-bottom: 1px white solid;
+}
+
+.loginItens .nav-item .nav-link{
+	color: white;
+}
+
+.loginItens .nav-item{
+	border-bottom: 1px transparent solid;
+	
+}
+
+.loginItens .nav-item:hover{
+	border-bottom: 1px white solid;
+}
+
+.loginimg{
+	height: 40px;
+	width: 40px;
+}
+
+.collapse .loginItens{
+	margin-right: 3%;
+}
+
+.buscar .btn{
+	color: white;
+	border-color: white;
+}
+
+.buscar .btn:hover{
+	color: white;
+	border-color: black;
+	background-color: transparent;
+}
+
+.produtos{
+	min-height: 150px;
+	background-color: #333333;
+}
+
+.p1{
+	text-align: center;
+}
+
+
+.produtos .row .p1{
+	
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+
+.produtos .row .col-xl-12 .logomarca{
+	margin-top: 5%;
+	height: 100px;
+	width: 30%;
+	margin-left: 36%;
+}
+
+.produtos .row .col-xl-4 img{
+	height: 130px;
+	width: 130px;
+}
+
+.produtos .row .col-xl-4 .t1{
+	margin-top: 5%;
+	color: white;
+	text-align: center;
+}
+
+.produtos .row .col-xl-4 p{
+	color: white;
+	text-align: center;
+}
+
+.produtos .row .col-xl-4 span{
+	color: #7CFC00;
+}
+
+.produtos .btn{
+	color: black;
+	border-color: white;
+}
+
+.produtos .btn:hover{
+	color: white;
+	background-color: #333333;
+}
+
+.produtos2{
+	background-color: whitesmoke;
+}
+
+.produtos2 .btn{
+	background-color: gray;
+}
+
+.produtos2 .row .col-xs-4 .t2{
+	margin-top: 5%;
+	color: white;
+	text-align: center;
+}
+
+.produtos .produtos2 .col-xl-4 p{
+	color: black;
+}
+
+.produtos .produtos2 .col-xl-4 span{
+	color: green;
+}
+
+.rodape{
+	background-color: #545454;
+	height: 110px;
+}
+
+.rodape .row .pe{
+	color: #999999;
+	text-align: center;
+	margin-top: 3%;
+	font-size: 14pt;
+}
