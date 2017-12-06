@@ -69,64 +69,56 @@ body{
 	background-color: transparent;
 }
 
-.banner .row .col-xl-12{
-	height: 500px;
-	
-}
-
-.banner .row{
+.banner{
 	background-image: url(../imgs/banner2.jpg);
-	height: 794px;
+	height: 616px;
 }
 
 .ti{
 	color: white;
 	text-align: center;
-	margin-top: 15%;
 	text-shadow: 1px 1px 1px;
+	margin-top: 17%;
 }
 
 .subti{
 	color: white;
 	text-align: center;
-	margin-top: 5%;
 	text-shadow: 1px 1px 1px;
 }
 
-.banner .row .col-xl-12{
-	height: 400px;
+.seta{
+	text-align: center;
 }
 
-
-.col-xl-12 .seta{
-	height: 90px;
-	width: 90px;
-	margin-left: 47%;
-	margin-top: 15%;
+#seta{
+	height: 100px;
+	width: 100px;
+	margin-top: 10%;
 }
 
-.destaques{
+#destaques{
 	background-color: whitesmoke;
-	min-height: 800px;
+	min-height: 200px;
 }
 
-.destaques .row .col-xl-4{
-	margin-top: 4%;
-	height: 330px;
+#destaques .row .destaques{
+	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
-.destaques .col-xl-4 .rounded-circle{
+.destaques .rounded-circle{
 	margin-bottom: 3%;
 	border-radius: 0;	
 }
 
-.destaques .col-xl-4 h3{
+.destaques h3{
 	text-align: center;
 	color: black;
 	margin-top: 5%;
 }
 
-.destaques .col-xl-4 p{
+.destaques p{
 	text-align: center;
 	color: black;
 	margin-top: 2%; 
@@ -134,15 +126,17 @@ body{
  
 .destaque{
 	text-align: center;
+	margin: 4% 0 3% 0;
 }
 
-.destaques .col-xl-4 .mais{
-	background-color: gray;
+.destaque .btn-secondary{
+	background-color: #444444;
 	color: white;
+	border: white;
 }
 
-.destaques .col-xl-4 .mais:hover{
-	background-color: #333333;
+.destaque .btn-secondary:hover{
+	background-color: #222222;
 }
 
 .rodape{
